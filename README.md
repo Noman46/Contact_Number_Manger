@@ -1,3 +1,14 @@
+  # Screen Shots
+  
+  <img src="src/main/webapp/static/images/11.PNG" width="600"/>
+  
+  <img src="src/main/webapp/static/images/2.PNG" width="600"/>
+  
+  <img src="src/main/webapp/static/images/3.PNG" width="600"/>
+  
+  <img src="src/main/webapp/static/images/4.PNG" width="600"/>
+
+
 # Project Title
 Contact Number Manager
 
@@ -49,13 +60,5 @@ A web app build on java and Spring Web MVC. Users can save contact number which 
   ### Server
      * Apache Tomcat (7)
      
-  #Screen Shots
-  
-  <img src="src/main/webapp/static/images/11.PNG" width="600"/>
-  
-  <img src="src/main/webapp/static/images/2.PNG" width="600"/>
-  
-  <img src="src/main/webapp/static/images/3.PNG" width="600"/>
-  
-  <img src="src/main/webapp/static/images/4.PNG" width="600"/>
+
   
